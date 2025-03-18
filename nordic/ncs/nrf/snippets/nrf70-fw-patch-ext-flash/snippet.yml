@@ -1,4 +1,0 @@
-name: nrf70-fw-patch-ext-flash
-append:
-  EXTRA_DTC_OVERLAY_FILE: fw-patch-ext-flash.overlay
-  EXTRA_CONF_FILE: overlay-fw-patch-ext-flash.conf

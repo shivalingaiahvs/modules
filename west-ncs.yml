@@ -1,0 +1,10 @@
+manifest:
+  projects:
+    - name: nrf
+      revision: v2.9.0
+      url: http://github.com/nrfconnect/sdk-nrf
+      import:
+        path-prefix: nordic/ncs
+
+  self:
+    path: nordic/ncs
