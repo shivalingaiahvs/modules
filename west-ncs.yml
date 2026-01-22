@@ -6,4 +6,4 @@ manifest:
       import: true
 
   self:
-    path: modules/ncs
+    path: modules
