@@ -5,7 +5,7 @@ manifest:
       url: https://github.com/zephyrproject-rtos/zephyr
       west-commands: scripts/west-commands.yml
       import:
-        path-prefix: modules/zephyrproject
+        path-prefix: modules/zephyr
 
   self:
     path: modules
