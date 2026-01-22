@@ -7,4 +7,4 @@ manifest:
         path-prefix: modules/ncs
 
   self:
-    path: .
+    path: modules
