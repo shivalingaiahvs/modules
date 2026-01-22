@@ -8,4 +8,4 @@ manifest:
         path-prefix:modules/zephyr
 
   self:
-    path: modules
+    path: modules/zephyr
