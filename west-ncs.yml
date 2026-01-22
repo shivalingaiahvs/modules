@@ -1,10 +1,9 @@
 manifest:
   projects:
     - name: nrf
-      revision: v2.9.0
+      revision: v3.2.0
       url: http://github.com/nrfconnect/sdk-nrf
-      import:
-        path-prefix: nordic/ncs
+      import: true
 
   self:
-    path: nordic/ncs
+    path: modules/ncs
