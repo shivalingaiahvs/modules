@@ -3,7 +3,7 @@ manifest:
     - name: nrf
       revision: v3.2.0
       url: http://github.com/nrfconnect/sdk-nrf
-      import: true
+      import:
         path-prefix: nordic/ncs
 
   self:
