@@ -1,15 +1,9 @@
 manifest:
-
-  #remotes: 
-    #- name: sdk-nrf
-      #url-base: http://github.com/nrfconnect
       
   projects:
     - name: nrf
-      #remote: nrfconnect
       revision: v3.2.0
       url: http://github.com/nrfconnect/sdk-nrf
-      #path: .
       import:
         path-prefix: modules/ncs
 
