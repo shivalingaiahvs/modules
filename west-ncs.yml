@@ -5,7 +5,7 @@ manifest:
       url-base: http://github.com/nrfconnect
       
   projects:
-    - name: sdk-nrf
+    - name: nrf
       remote: nrfconnect
       revision: v3.2.0
       #path: .
