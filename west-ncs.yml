@@ -8,7 +8,7 @@ manifest:
     - name: nrf
       remote: sdk-nrf
       revision: v3.2.0
-      path: .
+      #path: .
       import:
         path-prefix: modules/ncs
 
