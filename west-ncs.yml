@@ -1,6 +1,6 @@
 manifest:
 
-  remote: 
+  remotes: 
     - name: sdk-nrf
       url-base: http://github.com/nrfconnect
       
