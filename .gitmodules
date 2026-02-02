@@ -1,16 +1,20 @@
 
 [submodule "externals/nxp/nano-package"]
 	path = externals/nxp/nano-package
+	branch = master
 	url = https://github.com/NXPPlugNTrust/nano-package.git
 
 [submodule "externals/nxp/plug-and-trust"]
 	path = externals/nxp/plug-and-trust
+	branch = master
 	url = https://github.com/NXP/plug-and-trust.git
 
 [submodule "externals/nxp/nxmw"]
 	path = externals/nxp/nxmw
+	branch = main
 	url = https://github.com/NXP/nxmw.git
 
 [submodule "externals/unity"]
 	path = externals/unity
+	branch = master
 	url = https://github.com/ThrowTheSwitch/Unity.git
