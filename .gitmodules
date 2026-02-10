@@ -14,7 +14,7 @@
 	branch = main
 	url = https://github.com/NXP/nxmw.git
 
-[submodule "externals/unity"]
-	path = externals/unity
-	branch = master
+[submodule "externals/Unity"]
+	path = externals/Unity
 	url = https://github.com/ThrowTheSwitch/Unity.git
+	branch = master
